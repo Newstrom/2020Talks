@@ -10,10 +10,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Goals
-- Describe advantages for adopting R statistical software as a social science
+- Describe advantages for adopting R statistical software as a social scientist
 - Explore data science using two packages: `epiDisplay` & `lavaan`
 
 ## My Journey with R
+- PhD. in Family Social Science (2018)
 - Introduced to R in introductory statistical classes at the University of Minnesota
     - About 18 months of R
     - began and ended with `base` package
